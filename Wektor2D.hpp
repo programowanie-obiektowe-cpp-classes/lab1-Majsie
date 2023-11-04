@@ -1,4 +1,4 @@
-class Wektor2D {
+test systemu sprawdzajacego //class Wektor2D {
 private:
     double x;
     double y;
